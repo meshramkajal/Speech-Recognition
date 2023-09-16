@@ -11,6 +11,7 @@ Make sure you have the necessary dependencies installed by running:
 
 Code:- 
 pip install speech_recognition
+
 Run the chatbot.py script.
 
 The chatbot will listen for audio input through your microphone. Simply speak a command or question.
@@ -32,7 +33,7 @@ To expand the chatbot's capabilities, you can add more user inputs and correspon
 
 Code:- 
 
-# Add more user inputs and responses here
+ Add more user inputs and responses here:- 
 responses = {
     "new user input": "Corresponding response",
     ...
